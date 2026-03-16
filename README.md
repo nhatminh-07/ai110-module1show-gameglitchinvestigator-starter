@@ -25,9 +25,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- The game's purpose is to find the secret number between 1 and 100 in no more than 8 steps (Normal mode), 1 ... 50 in no more than 6 steps (Easy) and 1...20 in no more than 5 steps (Hard)
+- I have found some bugs. The first bugs that I found is the fact that I the hints are very misleading. The problems of the Higher: you get were reversed, and the try...attempt to reverse strings was typically wrong. I tried my best to resolve this issue, knowing that it could run.
+- AI have solved and refactored the code well. Consequently, it write unit tests that checked good coverage of the test cases of the helper programs, which help me being confident with the tests.
 
 ## 📸 Demo
 
